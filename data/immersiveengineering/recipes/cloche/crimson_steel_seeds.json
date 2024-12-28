@@ -1,0 +1,37 @@
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "mysticalagriculture:crimson_steel_essence",
+            "count": 2
+        }
+    ],
+    "input": {
+        "item": "mysticalagriculture:crimson_steel_seeds"
+    },
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "mysticalagriculture:inferium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:tertium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:imperium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:supremium_farmland"
+        }
+    ],
+    "time": 2600,
+    "render": {
+        "type": "crop",
+        "block": "mysticalagriculture:crimson_steel_crop"
+    }
+}

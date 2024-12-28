@@ -1,0 +1,37 @@
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "mysticalagriculture:end_biotite_essence",
+            "count": 2
+        }
+    ],
+    "input": {
+        "item": "mysticalagriculture:end_biotite_seeds"
+    },
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "mysticalagriculture:inferium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:tertium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:imperium_farmland"
+        },
+        {
+            "item": "mysticalagriculture:supremium_farmland"
+        }
+    ],
+    "time": 2000,
+    "render": {
+        "type": "crop",
+        "block": "mysticalagriculture:end_biotite_crop"
+    }
+}
