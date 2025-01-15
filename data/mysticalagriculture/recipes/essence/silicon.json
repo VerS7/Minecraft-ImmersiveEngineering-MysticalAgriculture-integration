@@ -1,0 +1,19 @@
+{
+    "type": "cucumber:shaped_no_mirror",
+    "conditions": [
+        {
+            "type": "mysticalagriculture:crop_enabled",
+            "crop": "mysticalagriculture:silicon"
+        }
+    ],
+    "pattern": ["E E", " E "],
+    "key": {
+        "E": {
+            "item": "mysticalagriculture:silicon_essence"
+        }
+    },
+    "result": {
+        "item": "refinedstorage:silicon",
+        "count": 1
+    }
+}
