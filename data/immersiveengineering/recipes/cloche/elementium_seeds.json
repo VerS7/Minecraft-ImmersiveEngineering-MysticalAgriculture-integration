@@ -14,6 +14,9 @@
             "item": "minecraft:dirt"
         },
         {
+            "item": "minecraft:farmland"
+        },
+        {
             "item": "mysticalagriculture:inferium_farmland"
         },
         {
@@ -29,7 +32,7 @@
             "item": "mysticalagriculture:supremium_farmland"
         }
     ],
-    "time": 800,
+    "time": 4200,
     "render": {
         "type": "crop",
         "block": "mysticalagriculture:elementium_crop"
